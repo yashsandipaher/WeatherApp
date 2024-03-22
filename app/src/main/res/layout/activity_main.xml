@@ -53,14 +53,14 @@
                 android:id="@+id/address"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="DHAKA, BD"
+                android:text="Pune,MH"
                 android:textSize="24dp" />
 
             <TextView
                 android:id="@+id/updated_at"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="20 April 2012, 20:08 PM"
+                android:text=""
                 android:textSize="14dp" />
         </LinearLayout>
 
@@ -349,7 +349,7 @@
                         android:id="@+id/about"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="frsarker"
+                        android:text="TYITB"
                         android:textSize="14dp" />
                 </LinearLayout>
             </LinearLayout>

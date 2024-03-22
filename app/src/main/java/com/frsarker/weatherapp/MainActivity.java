@@ -20,7 +20,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
 
     String CITY;
-    String API = "a09f4451f11cd83edf2d3f1bf79b2f88";
+    String API = "";   // write your API key generated from OPENWEATHERAPI
 
     TextView addressTxt, updated_atTxt, statusTxt, tempTxt, temp_minTxt, temp_maxTxt, sunriseTxt,
             sunsetTxt, windTxt, pressureTxt, humidityTxt;

@@ -4,4 +4,5 @@ The app gathers data such as temperature, pressure, humidity, weather status, as
 
 OUTPUT - 
 
-![WhatsApp Image 2024-03-22 at 10 45 46_b7c43e41](https://github.com/yashsandipaher/WeatherApp/assets/78398190/275c0ee4-2651-4738-b9d0-4c58250f9149)
+![Screenshot 2024-03-22 110317](https://github.com/yashsandipaher/WeatherApp/assets/78398190/eec621ba-73ac-44f7-8957-f5c940423591)
+
